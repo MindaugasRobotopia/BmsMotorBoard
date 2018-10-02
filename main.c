@@ -51,6 +51,7 @@ uint32_t stepCnt;
 float distance;
 
 
+// This is main function
 void main(void)
 {
     /* Stop WDT  */
